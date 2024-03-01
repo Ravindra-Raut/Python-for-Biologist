@@ -1,0 +1,6 @@
+name,RecSeq,Cut,lengthRecSeq
+EcoRI,GAATC,Sticky,6
+HindIII,AAGCTT,Sticky,6
+PstI,CTGCAG,Sticky,6
+EcoRV,GATATC,Blunt,6
+AluI,AGCT,Blunt,4

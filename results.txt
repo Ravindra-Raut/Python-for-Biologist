@@ -1,0 +1,36 @@
+>M57671.1 Octodon degus insulin mRNA, complete cds
+A978	T962	G1776	C1586	N101	
+GC content=61.59765481861488
+Composition of DNA
+A5	T2	G4	C5	N5	
+GC content=3.4090909090909087
+>M57671.1 Octodon degus insulin mRNA, complete cds
+A86	T93	G119	C134	N0	
+GC content=58.56481481481482
+>M57671.1 Octodon degus insulin mRNA, complete cds
+A978	T962	G1776	C1586	N101	
+GC content=61.59765481861488
+Composition of DNA
+A8	T3	G6	C8	N8	
+GC content=3.45679012345679
+>M57671.1 Octodon degus insulin mRNA, complete cds
+A86	T93	G119	C134	N0	
+GC content=58.56481481481482
+>M57671.1 Octodon degus insulin mRNA, complete cds
+A978	T962	G1776	C1586	N101	
+GC content=61.59765481861488
+Composition of DNA
+A11	T4	G8	C11	N11	
+GC content=3.47985347985348
+>M57671.1 Octodon degus insulin mRNA, complete cds
+A86	T93	G119	C134	N0	
+GC content=58.56481481481482
+>M57671.1 Octodon degus insulin mRNA, complete cds
+A978	T962	G1776	C1586	N101	
+GC content=61.59765481861488
+Composition of DNA
+A14	T5	G10	C14	N14	
+GC content=3.4934497816593884
+>M57671.1 Octodon degus insulin mRNA, complete cds
+A86	T93	G119	C134	N0	
+GC content=58.56481481481482
